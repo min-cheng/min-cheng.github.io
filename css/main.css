@@ -10,6 +10,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: bold;
     display: inline;
     margin-right: 20px;
 }
