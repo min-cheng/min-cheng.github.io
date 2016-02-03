@@ -28,8 +28,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 4em;
-    font-style: italic;
+    font-size: 5em;
     font-family: @import url(https://fonts.googleapis.com/css?family=Raleway:100), sans-serif;
     color: #ffffff;
 }
