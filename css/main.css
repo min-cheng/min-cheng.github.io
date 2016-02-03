@@ -34,6 +34,7 @@ h1 {
 
 div.colorstrip {
     width: 100%; height: 5em;
+    border: none;
     background-color: #FFC3C0;
 }
 p {
