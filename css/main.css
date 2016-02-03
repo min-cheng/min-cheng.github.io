@@ -29,8 +29,8 @@ a:hover {
 }
 h1 {
     font-size: 4em;
-    font-family:'Playfair Display', serif;
     font-style: italic;
+    font-family: @import url(https://fonts.googleapis.com/css?family=Raleway:100), serif;
     color: #ffffff;
 }
 h2 {
