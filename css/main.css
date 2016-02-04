@@ -71,6 +71,10 @@ footer {
     text-align: center;
 }
 
+.footer, .push {
+height: 4em;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
