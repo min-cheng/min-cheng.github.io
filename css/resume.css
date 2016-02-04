@@ -24,6 +24,7 @@ nav ul li, footer ul li {
     text-align: center;
 }
 a {
+    font-size: 1em;
     text-decoration: none;
     color: #e3ae88;
     font-family:'Droid Serif', Garamond;
