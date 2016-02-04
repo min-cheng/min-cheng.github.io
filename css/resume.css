@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,400italic);
 
 body {
-   width: 100%;
+   width: 95%;
     background-color: #ffffff;
     background-image: url(http://www.wallpaperup.com/uploads/wallpapers/2014/02/20/262330/ee0a0a63d80893f608a3cb72ca1a27a3.jpg);
     background-size: cover;
@@ -26,7 +26,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #e3ae88;
-    font-family:'Raleway', Arial, Sans-Serif;
+    font-family:'Droid Serif', Garamond;
 }
 a:hover {
     text-decoration: underline;
