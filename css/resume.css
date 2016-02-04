@@ -38,12 +38,14 @@ h1 {
     font-family: 'Raleway', sans-serif;
     color: #ffffff;
     text-align: center;
+    line-height:3.2em;
 }
 h2 {
     font-size: 2em;
     font-family: 'Raleway', sans-serif;
     text-align: left;
     color: #ffffff;
+    line-height:2.1em;
 }
 p {
     font-size: 1em;
