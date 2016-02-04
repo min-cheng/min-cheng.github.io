@@ -38,7 +38,14 @@ a.text {
    font-size: 1em;
    text-decoration: none;
    color: #e3ae88;
-   font-fmaily:'Droid Serif', serif, 
+   font-family:'Droid Serif', serif, 
+}
+a.active {
+   font-size: 1em;
+    text-decoration: none;
+    color: #e3ae88;
+    font-family:'Raleway', sans-serif;
+    font-weight: 600;
 }
 h1 {
     font-size: 3em;
