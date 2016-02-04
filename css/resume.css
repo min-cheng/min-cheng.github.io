@@ -60,7 +60,7 @@ h2 {
     font-family: 'Raleway', sans-serif;
     font-weight: 100;
     text-align: left;
-    padding-left: 3%;
+    padding-left: 10%;
     color: #ffffff;
     line-height:2.1em;
 }
@@ -70,7 +70,7 @@ p {
     color: #ffffff;
     font-family: 'Droid Serif', Garamond;
     text-align: left;
-    padding-left:5%;
+    padding-left:15%;
 }
 p.tab {
    font-size: 1em;
@@ -78,7 +78,7 @@ p.tab {
     color: #ffffff;
     font-family: 'Droid Serif', Garamond;
     text-align: left;
-   padding-left:8%;
+   padding-left:20%;
 }
 hr.style {
    border: 0;
