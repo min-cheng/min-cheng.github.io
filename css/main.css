@@ -33,7 +33,7 @@ a:hover {
     text-decoration: underline;
 }
 a.active {
-    text-decoration: underline;
+    border: 1px white;
 }
 h1 {
     font-size: 5em;
