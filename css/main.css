@@ -34,10 +34,10 @@ a:hover {
     text-decoration: underline;
 }
 a.active {
-    border: 1px solid #e3ae88;
-    padding: 2px;
     font-weight:600
     font-family: 'Raleway', Sans-serif;
+    color: #e3ae88;
+    text-decoration: none;
 }
 h1 {
     font-size: 5em;
