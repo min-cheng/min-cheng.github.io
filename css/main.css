@@ -33,10 +33,11 @@ a:hover {
     text-decoration: underline;
 }
 a.active {
-    font-weight:600
+    font-weight:600;
     font-family: 'Raleway', Sans-serif;
     color: #e3ae88;
     text-decoration: none;
+    border: none;
 }
 h1 {
     font-size: 5em;
