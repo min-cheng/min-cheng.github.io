@@ -77,5 +77,6 @@ ul.posts li {
     line-height: 1.4em;
     color: #ffffff;
     font-family: 'Roboto Condensed', sans-serif;
+    padding: 5px;
 }
 }
