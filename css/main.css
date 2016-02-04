@@ -89,4 +89,8 @@ ul.posts li {
     font-family: 'Droid Serif', sans-serif;
     padding: 8px;
 }
+
+.boxed2 {
+    border: 1px #ffffff;
+    padding: 2px;
 }
