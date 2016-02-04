@@ -34,6 +34,7 @@ a:hover {
 }
 a.active {
     border: 1px solid #e3ae88;
+    padding: 2px;
 }
 h1 {
     font-size: 5em;
