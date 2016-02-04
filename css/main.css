@@ -72,5 +72,6 @@ ul.posts li {
 
 .boxed {
     border: 1px double #ffffff;
+    text-align: left;
 }
 }
