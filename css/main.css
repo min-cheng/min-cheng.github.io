@@ -9,7 +9,7 @@ body {
     background-size: cover;
 }
 nav ul, footer ul {
-    font-family: 'Raleway Thin', Sans-Serif;
+    font-family: 'Raleway', Sans-Serif;
     padding: 0px;
     list-style: none;
     font-weight: bold
@@ -17,7 +17,7 @@ nav ul, footer ul {
     text-align: center;
 }
 nav ul li, footer ul li {
-    font-family:'Raleway Thin', Arial, Sans-Serif;
+    font-family:'Raleway', Arial, Sans-Serif;
     font-weight: bold;
     display: inline;
     margin-right: 20px;
@@ -27,23 +27,20 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #e3ae88;
-    font-family:'Raleway Thin', Arial, Sans-Serif;
+    font-family:'Raleway', Arial, Sans-Serif;
 }
 a:hover {
     text-decoration: underline;
 }
-a.active {
-    font-family: 'Raleway SemiBold';
-}
 h1 {
     font-size: 5em;
-    font-family: 'Raleway Thin', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: #ffffff;
     text-align: center;
 }
 h2 {
     font-size: 2.5em;
-    font-family: 'Raleway Thin', sans-serif;
+    font-family: 'Raleway', sans-serif;
     text-align: center;
     color: #ffffff;
 }
@@ -58,7 +55,7 @@ p {
 footer {
     border-top: 1px solid #ffffff;
     font-size: 1em;
-    font-family: 'Raleway Thin', Sans-Serif;
+    font-family: 'Raleway', Sans-Serif;
     list-style: none;
     display: inline;
     text-align: center;
