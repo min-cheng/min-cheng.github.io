@@ -29,10 +29,16 @@ a {
     font-size: 1em;
     text-decoration: none;
     color: #e3ae88;
-    font-family:'Raleway', Garamond;
+    font-family:'Raleway', sans-serif;
 }
 a:hover {
     text-decoration: underline;
+}
+a.text {
+   font-size: 1em;
+   text-decoration: none;
+   color: #e3ae88;
+   font-fmaily:'Droid Serif', serif, 
 }
 h1 {
     font-size: 3em;
