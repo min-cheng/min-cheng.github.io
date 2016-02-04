@@ -38,7 +38,7 @@ a.text {
    font-size: 1em;
    text-decoration: none;
    color: #e3ae88;
-   font-family:'Droid Serif', serif, 
+   font-family:'Droid Serif', serif;
 }
 a.active {
    font-size: 1em;
