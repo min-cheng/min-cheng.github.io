@@ -1,1 +1,79 @@
-kj
+@import url(https://fonts.googleapis.com/css?family=Raleway:100);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,400italic);
+
+body {
+   width: 70%;
+    background-color: #ffffff;
+    background-image: url(http://www.wallpaperup.com/uploads/wallpapers/2014/02/20/262330/ee0a0a63d80893f608a3cb72ca1a27a3.jpg);
+    background-size: cover;
+}
+nav ul, footer ul {
+    font-family: 'Raleway', Sans-Serif;
+    padding: 0px;
+    list-style: none;
+    font-weight: bold
+    display: inline;
+    text-align: center;
+}
+nav ul li, footer ul li {
+    font-family:'Raleway', Arial, Sans-Serif;
+    font-weight: bold;
+    display: inline;
+    margin-right: 20px;
+    list-style: none;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #e3ae88;
+    font-family:'Raleway', Arial, Sans-Serif;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 5em;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+h2 {
+    font-size: 2.5em;
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    color: #ffffff;
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #ffffff;
+    font-family: 'Droid Serif', Garamond;
+    text-align: left;
+}
+footer {
+    border-top: 1px solid #ffffff;
+    font-size: 1em;
+    font-family: 'Raleway', Sans-Serif;
+    list-style: none;
+    display: inline;
+    text-align: center;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+.boxed {
+    border: 3px double #ffffff;
+    text-align: left;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #ffffff;
+    font-family: 'Droid Serif', Garamond;
+    padding: 8px;
+}
