@@ -32,6 +32,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+a.active {
+    text-decoration: underline;
+}
 h1 {
     font-size: 5em;
     font-family: 'Raleway', sans-serif;
