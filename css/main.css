@@ -90,9 +90,7 @@ ul.posts li {
     padding: 8px;
 }
 
-.boxed2 {
-    border: 1px solid #ffffff;
-    padding: 2px;
-    width: 204px;
-    height: 204px;
+img {
+   padding:1px;
+   border:1px solid #ffffff;
 }
