@@ -69,8 +69,6 @@ footer {
     list-style: none;
     display: inline;
     text-align: center;
-    position: absolute;
-    bottom: 0%;
 }
 
 ul.posts { 
