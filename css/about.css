@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,600);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,400italic);
+body {
+    margin: 60px auto;
+    width: 70%;
+    background-color: #ffffff;
+    background-image: url(http://www.wallpaperup.com/uploads/wallpapers/2014/02/20/262330/ee0a0a63d80893f608a3cb72ca1a27a3.jpg);
+    background-size: cover;
+    min-height:100vh;
+}
+nav ul, footer ul {
+    font-family: 'Raleway', Sans-Serif;
+    padding: 0px;
+    list-style: none;
+    font-weight: 100
+    display: inline;
+    text-align: center;
+}
+nav ul li, footer ul li {
+    font-family:'Raleway', Arial, Sans-Serif;
+    font-weight: 100;
+    display: inline;
+    margin-right: 20px;
+    list-style: none;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #e3ae88;
+    font-family:'Raleway', Arial, Sans-Serif;
+    font-weight:100;
+}
+a:hover {
+    text-decoration: underline;
+}
+a.active {
+    font-weight:600;
+    font-family: 'Raleway', Sans-serif;
+    color: #e3ae88;
+    text-decoration: none;
+    border: none;
+}
+h1 {
+    font-size: 5em;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    text-align: center;
+    font-weight:100;
+}
+h2 {
+    font-size: 2.5em;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: #ffffff;
+    font-weight:100;
+}
+
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #ffffff;
+    font-family: 'Droid Serif', sans-serif;
+    text-align: center;
+}
+footer {
+    font-size: 1em;
+    font-family: 'Raleway', Sans-Serif;
+    font-weight:100;
+    list-style: none;
+    display: inline;
+    text-align: center;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+.boxed {
+    border: 3px double #ffffff;
+    text-align: justify;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #ffffff;
+    font-family: 'Droid Serif', sans-serif;
+    padding: 2em;
+}
+
+img {
+   padding:2px;
+   border:1px solid #ffffff;
+}
