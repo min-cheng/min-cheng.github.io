@@ -96,8 +96,8 @@ div#slider { overflow: hidden; }
 div#slider figure img { width: 20%; float: left; }
 div#slider figure { 
   position: relative;
-  width: 500%;
-  margin: 0;
+  width: 80%;
+  margin: 10%;
   left: 10%;
   text-align: left;
   font-size: 0;
