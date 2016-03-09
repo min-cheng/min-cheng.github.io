@@ -81,4 +81,5 @@ ul.posts li {
 img {
     max-width: 100%;
     height: auto;
+    text-align: center;
 }
