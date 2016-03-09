@@ -3,9 +3,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #ffffff;
-    background-image: url(http://www.wallpaperup.com/uploads/wallpapers/2014/02/20/262330/ee0a0a63d80893f608a3cb72ca1a27a3.jpg);
-    background-size: cover;
+    background-color: #c0c0c0;
 }
 nav ul, footer ul {
     font-family: 'Raleway', Sans-Serif;
