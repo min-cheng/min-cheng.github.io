@@ -72,6 +72,7 @@ h1 {
     to {
         opacity: 1.0;
     }
+    animation-fill-mode:forwards;
 }
 h2 {
     font-size: 2em;
