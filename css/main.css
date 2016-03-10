@@ -62,6 +62,8 @@ h2 {
     text-align: center;
     color: #ffffff;
     font-weight:100;
+    animation-name: fadein;
+    animation-duration: 2s;
 }
 
 p {
@@ -70,6 +72,8 @@ p {
     color: #ffffff;
     font-family: 'Droid Serif', sans-serif;
     text-align: center;
+    animation-name: fadein;
+    animation-duration: 2s;
 }
 footer {
     font-size: 1em;
