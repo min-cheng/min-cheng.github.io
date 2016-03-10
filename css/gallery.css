@@ -88,6 +88,14 @@ p {
     font-family: 'Droid Serif', sans-serif;
     text-align: center;
 }
+p.copyright {
+    font-size: 1em;
+    color: #ffffff;
+    font-family: 'Raleway', Sans-Serif;
+    text-align: center;
+    animation-name: fadein;
+    animation-duration: 1s;
+}
 footer {
     font-size: 1em;
     font-family: 'Raleway', Sans-Serif;
