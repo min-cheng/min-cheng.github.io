@@ -71,8 +71,16 @@ h2 {
     text-align: center;
     color: #ffffff;
     font-weight:100;
+    animation-name: fadein;
+    animation-duration: 2s;
 }
-
+hr.style {
+   border: 0;
+   height: 1px;
+   background-image: linear-gradient(to right, rgba(0,0,0,0), #ffffff, rgba(0,0,0,0));
+   animation-name: fadein;
+   animation-duration: 2s;
+}
 p {
     font-size: 1.3em;
     line-height: 1.4em;
