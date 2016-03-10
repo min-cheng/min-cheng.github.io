@@ -29,6 +29,8 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    animation-duration: 2s;
+    animation-name: fadein;
 }
 a.active {
     font-weight:600;
