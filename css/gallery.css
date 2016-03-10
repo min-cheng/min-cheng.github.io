@@ -38,6 +38,7 @@ a.active {
     color: #710000;
     text-decoration: none;
     border: none;
+    font-size: 1em;
 }
 h1 {
     font-size: 5em;
