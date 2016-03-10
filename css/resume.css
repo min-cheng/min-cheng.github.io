@@ -73,6 +73,8 @@ h2 {
     padding-left: 10%;
     color: #ffffff;
     line-height:2.1em;
+   animation-name: fadein;
+    animation-duration: 2s;
 }
 p {
     font-size: 1em;
