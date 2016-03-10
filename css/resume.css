@@ -32,6 +32,7 @@ a {
 a:hover {
    animation-name: fadewhite;
    animation-duration: 1s;
+   animation-fill-mode: forwards;
 }
 @keyframes fadewhite {
     from {
@@ -40,7 +41,6 @@ a:hover {
     to {
         color: #ffffff;
     }
-   animation-fill-mode:forwards;
 }
 a.text {
    font-size: 1em;
@@ -72,7 +72,6 @@ h1 {
     to {
         opacity: 1.0;
     }
-    animation-fill-mode:forwards;
 }
 h2 {
     font-size: 2em;
