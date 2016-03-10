@@ -48,6 +48,14 @@ h1 {
     animation-duration: 2s;
     animation-name: fadein;
 }
+@keyframes fadein {
+    from {
+        opacity: 0.0;
+    }
+    to {
+        opacity: 1.0;
+    }
+}
 h2 {
     font-size: 2.5em;
     font-family: 'Raleway', sans-serif;
