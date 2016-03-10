@@ -31,7 +31,7 @@ a {
 }
 a:hover {
    animation-name: fadewhite;
-   animation-duration: 1s;
+   animation-duration: 0.5s;
    animation-fill-mode: forwards;
 }
 @keyframes fadewhite {
