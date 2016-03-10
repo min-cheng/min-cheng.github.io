@@ -102,7 +102,7 @@ ul.posts li {
     font-family: 'Droid Serif', sans-serif;
     padding: 2em;
     animation-name: fadein;
-    animation-duration: 2s;
+    animation-duration: 2.5s;
 }
 
 img {
