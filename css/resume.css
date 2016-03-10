@@ -30,17 +30,17 @@ a {
     font-weight: 100;
 }
 a:hover {
-   text-decoration: underline;
-   animation-name: fadehalf;
+   animation-name: fadewhite;
    animation-duration: 1s;
 }
-@keyframes fadehalf {
+@keyframes fadewhite {
     from {
         color: #710000;
     }
     to {
         color: #ffffff;
     }
+   animation-fill-mode:forwards;
 }
 a.text {
    font-size: 1em;
