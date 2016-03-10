@@ -30,7 +30,9 @@ a {
     font-weight: 100;
 }
 a:hover {
-    text-decoration: underline;
+   text-decoration: underline;
+   animation-name: fadein;
+   animation-duration: 1s;
 }
 a.text {
    font-size: 1em;
@@ -52,6 +54,16 @@ h1 {
     color: #ffffff;
     text-align: center;
     line-height:3.2em;
+    animation-name: fadein;
+    animation-duration: 2s;
+}
+@keyframes fadein {
+    from {
+        opacity: 0.0;
+    }
+    to {
+        opacity: 1.0;
+    }
 }
 h2 {
     font-size: 2em;
@@ -70,6 +82,8 @@ p {
     text-align: left;
     padding-left:15%;
     padding-right:15%;
+   animation-name: fadein;
+    animation-duration: 2s;
 }
 p.tab {
    font-size: 1em;
@@ -78,6 +92,8 @@ p.tab {
     font-family: 'Droid Serif', Garamond;
     text-align: left;
    padding-left:20%;
+   animation-name: fadein;
+    animation-duration: 2s;
 }
 hr.style {
    border: 0;
