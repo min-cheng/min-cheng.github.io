@@ -97,6 +97,8 @@ ul.posts li {
     color: #ffffff;
     font-family: 'Droid Serif', sans-serif;
     padding: 2em;
+    animation-name: fadein;
+    animation-duration: 2s;
 }
 
 img {
