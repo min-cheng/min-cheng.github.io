@@ -30,6 +30,8 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    animation-duration: 1s;
+    animation-name: fadein;
 }
 a.active {
     font-weight:600;
@@ -44,6 +46,16 @@ h1 {
     color: #ffffff;
     text-align: center;
     font-weight:100;
+    animation-duration: 2s;
+    animation-name: fadein;
+}
+@keyframes fadein {
+    from {
+        opacity: 0.0;
+    }
+    to {
+        opacity: 1.0;
+    }
 }
 h2 {
     font-size: 2.5em;
@@ -86,6 +98,8 @@ ul.posts li {
     color: #ffffff;
     font-family: 'Droid Serif', sans-serif;
     padding: 2em;
+    animation-duration: 2s;
+    animation-name: fadein;
 }
 
 img {
