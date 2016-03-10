@@ -31,8 +31,16 @@ a {
 }
 a:hover {
    text-decoration: underline;
-   animation-name: fadein;
+   animation-name: fadehalf;
    animation-duration: 1s;
+}
+@keyframes fadehalf {
+    from {
+        opacity: 1.0;
+    }
+    to {
+        opacity: 0.6;
+    }
 }
 a.text {
    font-size: 1em;
