@@ -23,7 +23,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #CDB5CD;
+    color: #5d0000;
     font-family:'Raleway', Arial, Sans-Serif;
     font-weight:100;
 }
@@ -33,7 +33,7 @@ a:hover {
 a.active {
     font-weight:600;
     font-family: 'Raleway', Sans-serif;
-    color: #CDB5CD;
+    color: #5d0000;
     text-decoration: none;
     border: none;
 }
