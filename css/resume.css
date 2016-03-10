@@ -95,6 +95,14 @@ p {
    animation-name: fadein;
     animation-duration: 2s;
 }
+p.copyright {
+    font-size: 1em;
+    color: #ffffff;
+    font-family: 'Raleway', Sans-Serif;
+    text-align: center;
+    animation-name: fadein;
+    animation-duration: 1s;
+}
 p.tab {
    font-size: 1em;
     line-height: 1.8em;
