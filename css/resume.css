@@ -36,10 +36,10 @@ a:hover {
 }
 @keyframes fadehalf {
     from {
-        opacity: 1.0;
+        color: #710000;
     }
     to {
-        opacity: 0.6;
+        color: #ffffff;
     }
 }
 a.text {
