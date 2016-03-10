@@ -28,16 +28,16 @@ a {
     font-weight:100;
 }
 a:hover {
-    text-decoration: underline;
-    animation-duration: 1s;
-    animation-name: fadehalf;
+   animation-name: fadewhite;
+   animation-duration: 1s;
+   animation-fill-mode: forwards;
 }
-@keyframes fadehalf {
+@keyframes fadewhite {
     from {
-        opacity: 1.0;
+        color: #710000;
     }
     to {
-        opacity: 0.6;
+        color: #ffffff;
     }
 }
 a.active {
