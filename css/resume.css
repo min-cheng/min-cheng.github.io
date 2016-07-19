@@ -26,7 +26,7 @@ nav ul li, footer ul li {
 a {
     font-size: 1em;
     text-decoration: none;
-    color: #A78451;
+    color: #ECD5B3;
     font-family:'Raleway', sans-serif;
     font-weight: 200;
 }
@@ -37,7 +37,7 @@ a:hover {
 }
 @keyframes fadewhite {
     from {
-        color: #A78451;
+        color: #ECD5B3;
     }
     to {
         color: #ffffff;
@@ -46,13 +46,13 @@ a:hover {
 a.text {
    font-size: 1em;
    text-decoration: none;
-   color: #A78451;
+   color: #ECD5B3;
    font-family:'Droid Serif', serif;
 }
 a.active {
    font-size: 1em;
     text-decoration: none;
-    color: #A78451;
+    color: #ECD5B3;
     font-family:'Raleway', sans-serif;
     font-weight: 600;
 }
