@@ -24,7 +24,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #710000;
+    color: #ECD5B3;
     font-family:'Raleway', Arial, Sans-Serif;
     font-weight:100;
 }
@@ -35,7 +35,7 @@ a:hover {
 }
 @keyframes fadewhite {
     from {
-        color: #710000;
+        color: #ECD5B3;
     }
     to {
         color: #ffffff;
@@ -44,7 +44,7 @@ a:hover {
 a.active {
     font-weight:600;
     font-family: 'Raleway', Sans-serif;
-    color: #710000;
+    color: #ECD5B3;
     text-decoration: none;
     border: none;
     font-size: 1em;
