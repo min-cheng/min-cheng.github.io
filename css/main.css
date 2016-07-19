@@ -3,7 +3,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: linear-gradient(bottom, #778899, #97aec5);
+    background: linear-gradient(to bottom, #778899, #97aec5);
 }
 nav ul, footer ul {
     font-family: 'Raleway', Sans-Serif;
