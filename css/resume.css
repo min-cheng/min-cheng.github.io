@@ -4,7 +4,7 @@
 body {
    margin: 60px auto;
    width: 50em;
-   background-color: #c0c0c0;
+   background: linear-gradient(bottom, #778899, #97aec5);
    text-align: center;
 }
 nav ul, footer ul {
