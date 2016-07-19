@@ -3,7 +3,7 @@
 body {
     margin: 60px auto;
     width: 50em;
-    background: linear-gradient(bottom, #778899, #97aec5);
+    background: linear-gradient(to bottom, #778899, #97aec5);
     min-height:100vh;
 }
 nav ul, footer ul {
